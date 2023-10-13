@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\PCc\\Downloads\\Castle Feedbacker (1)\\Castle Feedbacker\\Castle Feedbacker.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

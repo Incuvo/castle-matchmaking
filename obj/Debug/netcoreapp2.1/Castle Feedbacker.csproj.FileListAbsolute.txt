@@ -1,0 +1,22 @@
+E:\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.deps.json
+E:\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.runtimeconfig.json
+E:\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.runtimeconfig.dev.json
+E:\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.dll
+E:\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.pdb
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.csprojAssemblyReference.cache
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.csproj.CoreCompileInputs.cache
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.AssemblyInfoInputs.cache
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.AssemblyInfo.cs
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.dll
+E:\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.pdb
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.deps.json
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.runtimeconfig.json
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.runtimeconfig.dev.json
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.dll
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\bin\Debug\netcoreapp2.1\Castle Feedbacker.pdb
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.csprojAssemblyReference.cache
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.csproj.CoreCompileInputs.cache
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.AssemblyInfoInputs.cache
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.AssemblyInfo.cs
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.dll
+C:\Users\PCc\Downloads\Castle Feedbacker (1)\Castle Feedbacker\obj\Debug\netcoreapp2.1\Castle Feedbacker.pdb
